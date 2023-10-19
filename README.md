@@ -4,7 +4,7 @@ Task Full-Stack Development for the Library App
 Details contain below with the instruction how to run the app
 
 
-#  Fullstack Trariff Annual Cost Comparison App
+#  Fullstack Library App
 
 ## Project structure
 
